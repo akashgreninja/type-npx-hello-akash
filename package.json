@@ -1,6 +1,6 @@
 {
   "name": "hello-akash",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,6 +8,4 @@
   "bin": {
     "hello-akash": "bin/index.js"
   }
- 
-
 }
